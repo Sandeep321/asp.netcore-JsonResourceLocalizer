@@ -1,0 +1,5 @@
+﻿{
+  "V100": "Value for {0} is required",
+  "V101": "Value for {0} should be between {1}, {2}",
+  "V102": "Value for {0} should have maximum length upto {1}"
+}
