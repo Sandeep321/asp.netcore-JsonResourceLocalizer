@@ -1,4 +1,4 @@
-# asp.netcore-JsonResourceLocalizer
+# asp.netcore-JsonResourceLocalizer 
 It is a .Net core 2.0 localization with more than one resource file. It allows you to add localization into your Api with json files as resource files.
 
 Just clone/download and run the project. It shall open Swagger URL like "https://localhost:44340/swagger/index.html" which has below end points. 
